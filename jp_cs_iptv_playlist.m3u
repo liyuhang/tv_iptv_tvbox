@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="CS",DTB
-https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png" group-title="CS",映画年齢制限
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
