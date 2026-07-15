@@ -1,21 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="CS",DTB ショップチャンネル (Primehome)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="CS",DTB
 https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png" group-title="CS",映画（年齢制限あり）
+#EXTINF:-1 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png" group-title="CS",映画年齢制限
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 tvg-logo="tps://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/230_thats_rock.png"," group-title="CS",DTB それがロックです
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnowrock-rakutenjp/playlist.m3u8
-#EXTINF:-1 tvg-logo="tps://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/196_game.png" group-title="CS",DTB pureiba
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-game-cmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/115_euronews.png" group-title="CS",DTB ユーロニュース
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/114_bloombergtv.png" group-title="CS",DTB Bloomberg TV+
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8
-#EXTINF:-1 tvg-logo="ps://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/112_stockvoice.png" group-title="CS",DTB ストイックボイス
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=GAORA_SPORTS_logo.svg&w=200" group-title="CS",DTB Gaora Sports
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gaorahlscmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 tvg-logo="//www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/754.png",Golf" group-title="CS",ゴルフネットワーク
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-fitness-cmaf1-rakutenjp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/252.png" group-title="CS",DTB ザ・シネマ
-https://haru.charandom.blog/stream/jp/the_cinema/stream-output.m3u8?mode=hls
